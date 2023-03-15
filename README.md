@@ -18,4 +18,5 @@ Using the slicing concept rotate the list
 
 ## Output:
 
+
 ## Result:
