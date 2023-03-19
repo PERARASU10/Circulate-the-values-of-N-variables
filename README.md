@@ -29,7 +29,7 @@ Step 6:
 
 End the program
 
-###Program:
+## Program:
 ```
 #Program to circulate N values.
 #Developed by: PERARASU M
@@ -42,12 +42,12 @@ def circulate():
 ```   
 
 
-###Output:
+## Output:
 ![Screenshot 2023-03-19 173708](https://user-images.githubusercontent.com/118348589/226174201-598335d2-07a1-481b-92f5-f31f08d45fe7.png)
 
 
 
-###Result:
+## Result:
 
 The output for circulate the values of n variables is successfull.
 
